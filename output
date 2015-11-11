@@ -1,0 +1,33 @@
+p1 is   5x^2 +  x^2  +  3x^3 +  4x^5 +  5x^6
+
+p2 is   x^2  +  2x^5 +  3x^8
+
+p1+p2 is   7x^2 +  3x^3 +  6x^5 +  5x^6 +  3x^8
+
+p1 is   5x^2 +  x^2  +  3x^3 +  4x^5 +  5x^6
+
+p2 is   x^2  +  2x^5 +  3x^8
+
+p1*p2 is   5x^4 +  x^4  +  3x^5 +  4x^7 +  10x^7 +  2x^7 +  5x^8 +  6x^8 +  8x^10 +  15x^10 +  3x^10 +  10x^11 +  9x^11 +  12x^13 +  15x^14
+
+p2 is   x^2  +  2x^5 +  3x^8
+
+p2*p2 is   x^4  +  2x^7 +  2x^7 +  3x^10 +  4x^10 +  3x^10 +  6x^13 +  6x^13 +  9x^16
+
+p0 is null
+
+p2 is   x^2  +  2x^5 +  3x^8
+
+p0*p2 is null
+
+p0 is null
+
+p2 is   x^2  +  2x^5 +  3x^8
+
+p0+p2 is   x^2  +  2x^5 +  3x^8
+
+After p1 = p1+p2  p1 is   7x^2 +  3x^3 +  6x^5 +  5x^6 +  3x^8
+
+After p2 = p2*p2  p2 is   x^4  +  2x^7 +  2x^7 +  3x^10 +  4x^10 +  3x^10 +  6x^13 +  6x^13 +  9x^16
+
+BUILD SUCCESSFUL (total time: 0 seconds)
